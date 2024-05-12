@@ -6,4 +6,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,emacs,fediverse,rust,html,css,svg)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=AsmodeumX)
+<center>![](https://komarev.com/ghpvc/?username=AsmodeumX)</center>
