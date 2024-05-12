@@ -6,5 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,emacs,fediverse,rust,html,css,svg)](https://skillicons.dev)
 
+<a href="https://app.daily.dev/asmodeusx"><img src="https://api.daily.dev/devcards/v2/rYtucI6ELHJWMTbgKd1Lg.png?r=lun&type=wide" width="652" alt="webwizard's Dev Card"/></a>
+
 ![](https://komarev.com/ghpvc/?username=AsmodeumX)
 
