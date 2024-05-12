@@ -3,3 +3,5 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AsmodeumX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=AsmodeumX)
