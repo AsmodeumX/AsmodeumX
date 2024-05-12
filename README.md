@@ -4,6 +4,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AsmodeumX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Skills](https://skillicons.dev/icons?i=rust,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=emacs,rust,html,css)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=AsmodeumX)
