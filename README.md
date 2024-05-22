@@ -14,7 +14,7 @@ Useless stuff nobody cares about:
 
 <!-- Skills -->
 ### Useless skills:
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,vim,emacs,fediverse,rust,html,css,svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,vim,neovim,emacs,fediverse,rust,html,css,svg)](https://skillicons.dev)
 
 <!-- Views -->
 ![](https://komarev.com/ghpvc/?username=AsmodeumX)
