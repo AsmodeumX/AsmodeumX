@@ -1,5 +1,4 @@
-About me:
-
+About me: <br>
 I translate stuff
 
 Useless stuff nobody cares about:
