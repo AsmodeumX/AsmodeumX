@@ -1,3 +1,6 @@
+About me:
+I translate stuff
+
 Useless stuff nobody cares about:
 
 <!-- Github stats -->
