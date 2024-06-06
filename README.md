@@ -9,8 +9,6 @@ Useless stuff nobody cares about:
 <!-- Languages stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmodeumX)](https://github.com/AsmodeumX/github-readme-stats)
 
-<!-- Daily dev -->
-<a href="https://app.daily.dev/asmodeusx"><img src="https://api.daily.dev/devcards/v2/rYtucI6ELHJWMTbgKd1Lg.png?r=lun&type=wide" width="652" alt="webwizard's Dev Card"/></a>
 
 <!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=AsmodeumX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
